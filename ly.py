@@ -1,0 +1,1 @@
+buraya phyton kodumuz yazıyoruz
